@@ -5,7 +5,7 @@ class FlutterRemix {
   FlutterRemix._();
 
   static const _kFontFam = 'FlutterRemix';
-  static const String? _kFontPkg = null;
+  static const String _kFontPkg = 'flutter_remix';
 
   /// 24_hours_fill icon
   static const IconData twenty_four_hours_fill =
