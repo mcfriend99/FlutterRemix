@@ -1,6 +1,6 @@
 # FlutterRemix
 
-The complete Remix Icon pack available as Flutter Icons.
+The complete Remix Icon pack available as Flutter Icons. This package acts as a more attractive replacement for the default Material icon set.
 
 ## Getting Started
 
