@@ -6,9 +6,7 @@ The complete Remix Icon pack available as Flutter Icons.
 
 This plugin is the Flutter port of the [Remix Icons](https://remixicon.com) pack. This icon pack provides a very beautiful and modern alternative to the FontAwesome PRO with a very flexible license suitable for both commercial and free use.
 
-[Line Awesome fonts by Icons8](https://icons8.com/line-awesome)
-
-You can visit the icons source project for a full list of all the available icons. I'll do my best to make sure this project is always up-to-date and in sync with the [Remix](hhttps://remixicon.com) project.
+You can visit the icons source project for a full list of all the available icons. I'll do my best to make sure this project is always up-to-date and in sync with the [Remix](https://remixicon.com) project.
 
 ## Installation
 
