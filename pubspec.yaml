@@ -1,6 +1,6 @@
 name: flutter_remix
 description: The complete Remix Icon pack available as Flutter Icons.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/mcfriend99/FlutterRemix
 
 environment:
@@ -23,7 +23,7 @@ flutter:
   fonts:
     - family: FlutterRemix
       fonts:
-        - asset: fonts/FlutterRemix.ttf
+        - asset: lib/fonts/FlutterRemix.ttf
 
   # To add assets to your package, add an assets section, like this:
   # assets:
