@@ -16,7 +16,7 @@ Simply include the `flutter_remix` in your `pubsec.yaml`
 dependencies:
   flutter:
     sdk: flutter
-  flutter_remix: ^0.0.1
+  flutter_remix: ^0.0.3
 ```
 
 Then run the `flutter packages get` command (some IDE's such as IntelliJ will prompt you to do this or do it for you automatically).
