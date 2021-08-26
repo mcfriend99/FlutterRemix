@@ -33,5 +33,5 @@ Then run the `flutter packages get` command (some IDE's such as IntelliJ will pr
 2. Use is anywhere you can use an `IconData` such as in the `Icon` widget. E.g.
 
 	```
-	Icon(FlutterRemix.search)
+	Icon(FlutterRemix.search_line)
 	```
